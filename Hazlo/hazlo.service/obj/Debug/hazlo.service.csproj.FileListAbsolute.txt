@@ -1,0 +1,4 @@
+C:\_Workspace\hazlo.in\hazlo.service\bin\Debug\hazlo.service.dll
+C:\_Workspace\hazlo.in\hazlo.service\bin\Debug\hazlo.service.pdb
+C:\_Workspace\hazlo.in\hazlo.service\obj\Debug\hazlo.service.dll
+C:\_Workspace\hazlo.in\hazlo.service\obj\Debug\hazlo.service.pdb

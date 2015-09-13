@@ -1,0 +1,4 @@
+C:\_Workspace\hazlo.in\hazlo.common\bin\Debug\hazlo.common.dll
+C:\_Workspace\hazlo.in\hazlo.common\bin\Debug\hazlo.common.pdb
+C:\_Workspace\hazlo.in\hazlo.common\obj\Debug\hazlo.common.dll
+C:\_Workspace\hazlo.in\hazlo.common\obj\Debug\hazlo.common.pdb

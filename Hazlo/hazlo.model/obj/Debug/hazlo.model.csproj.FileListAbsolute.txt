@@ -1,0 +1,4 @@
+C:\_Workspace\hazlo.in\hazlo.model\bin\Debug\hazlo.model.dll
+C:\_Workspace\hazlo.in\hazlo.model\bin\Debug\hazlo.model.pdb
+C:\_Workspace\hazlo.in\hazlo.model\obj\Debug\hazlo.model.dll
+C:\_Workspace\hazlo.in\hazlo.model\obj\Debug\hazlo.model.pdb

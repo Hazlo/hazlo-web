@@ -1,0 +1,6 @@
+C:\_Workspace\hazlo.in\hazlo.web\bin\hazlo.dll.config
+C:\_Workspace\hazlo.in\hazlo.web\bin\hazlo.dll
+C:\_Workspace\hazlo.in\hazlo.web\bin\hazlo.pdb
+C:\_Workspace\hazlo.in\hazlo.web\obj\Debug\hazlo.web.csprojResolveAssemblyReference.cache
+C:\_Workspace\hazlo.in\hazlo.web\obj\Debug\hazlo.dll
+C:\_Workspace\hazlo.in\hazlo.web\obj\Debug\hazlo.pdb

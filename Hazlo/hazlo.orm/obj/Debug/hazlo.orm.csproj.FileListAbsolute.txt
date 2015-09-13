@@ -1,0 +1,8 @@
+C:\_Workspace\hazlo.in\hazlo.orm\bin\Debug\hazlo.orm.dll.config
+C:\_Workspace\hazlo.in\hazlo.orm\bin\Debug\hazlo.orm.dll
+C:\_Workspace\hazlo.in\hazlo.orm\bin\Debug\hazlo.orm.pdb
+C:\_Workspace\hazlo.in\hazlo.orm\bin\Debug\EntityFramework.dll
+C:\_Workspace\hazlo.in\hazlo.orm\bin\Debug\EntityFramework.xml
+C:\_Workspace\hazlo.in\hazlo.orm\obj\Debug\hazlo.orm.csprojResolveAssemblyReference.cache
+C:\_Workspace\hazlo.in\hazlo.orm\obj\Debug\hazlo.orm.dll
+C:\_Workspace\hazlo.in\hazlo.orm\obj\Debug\hazlo.orm.pdb

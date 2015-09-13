@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="hazloModelStoreContainer" CdmEntityContainer="hazloEntities">
+    <EntitySetMapping Name="base_contact">
+      <EntityTypeMapping TypeName="hazloModel.base_contact">
+        <MappingFragment StoreEntitySet="base_contact">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="full_name" ColumnName="full_name" />
+          <ScalarProperty Name="email_address" ColumnName="email_address" />
+          <ScalarProperty Name="phone_no" ColumnName="phone_no" />
+          <ScalarProperty Name="subject" ColumnName="subject" />
+          <ScalarProperty Name="messge" ColumnName="messge" />
+          <ScalarProperty Name="created_on" ColumnName="created_on" />
+          <ScalarProperty Name="updated_on" ColumnName="updated_on" />
+          <ScalarProperty Name="created_by" ColumnName="created_by" />
+          <ScalarProperty Name="updated_by" ColumnName="updated_by" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="base_player">
+      <EntityTypeMapping TypeName="hazloModel.base_player">
+        <MappingFragment StoreEntitySet="base_player">
+          <ScalarProperty Name="base_player_id" ColumnName="base_player_id" />
+          <ScalarProperty Name="full_name" ColumnName="full_name" />
+          <ScalarProperty Name="email_address" ColumnName="email_address" />
+          <ScalarProperty Name="phone_no" ColumnName="phone_no" />
+          <ScalarProperty Name="company" ColumnName="company" />
+          <ScalarProperty Name="created_on" ColumnName="created_on" />
+          <ScalarProperty Name="updated_on" ColumnName="updated_on" />
+          <ScalarProperty Name="created_by" ColumnName="created_by" />
+          <ScalarProperty Name="updated_by" ColumnName="updated_by" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="base_team">
+      <EntityTypeMapping TypeName="hazloModel.base_team">
+        <MappingFragment StoreEntitySet="base_team">
+          <ScalarProperty Name="base_team_id" ColumnName="base_team_id" />
+          <ScalarProperty Name="team_name" ColumnName="team_name" />
+          <ScalarProperty Name="created_on" ColumnName="created_on" />
+          <ScalarProperty Name="updated_on" ColumnName="updated_on" />
+          <ScalarProperty Name="created_by" ColumnName="created_by" />
+          <ScalarProperty Name="updated_by" ColumnName="updated_by" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="base_team_player_map">
+      <EntityTypeMapping TypeName="hazloModel.base_team_player_map">
+        <MappingFragment StoreEntitySet="base_team_player_map">
+          <ScalarProperty Name="base_team_player_map_id" ColumnName="base_team_player_map_id" />
+          <ScalarProperty Name="base_team_id" ColumnName="base_team_id" />
+          <ScalarProperty Name="base_player_id" ColumnName="base_player_id" />
+          <ScalarProperty Name="created_on" ColumnName="created_on" />
+          <ScalarProperty Name="updated_on" ColumnName="updated_on" />
+          <ScalarProperty Name="created_by" ColumnName="created_by" />
+          <ScalarProperty Name="updated_by" ColumnName="updated_by" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hazlo.web", "hazlo.web\hazlo.web.csproj", "{73AB16ED-FA9D-463D-AF1E-8E2094EC1926}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hazlo.service", "hazlo.service\hazlo.service.csproj", "{DABDE7B2-2FFA-49B8-A976-7DEE868949C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hazlo.repository", "hazlo.repository\hazlo.repository.csproj", "{7598D02D-6E27-4533-AA4E-7842E9016028}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hazlo.model", "hazlo.model\hazlo.model.csproj", "{0B899478-6D57-4CF6-AFE7-55728F1C159B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hazlo.common", "hazlo.common\hazlo.common.csproj", "{33E6ED9E-8DB7-46DB-A62B-1067E7684019}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hazlo.orm", "hazlo.orm\hazlo.orm.csproj", "{BC63D1F5-B90E-4F51-A644-8A326F719919}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hazlo.api", "hazlo.api\hazlo.api.csproj", "{D5FF2A93-C94D-4D57-973C-ED5FF1BB6A79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73AB16ED-FA9D-463D-AF1E-8E2094EC1926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73AB16ED-FA9D-463D-AF1E-8E2094EC1926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73AB16ED-FA9D-463D-AF1E-8E2094EC1926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73AB16ED-FA9D-463D-AF1E-8E2094EC1926}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DABDE7B2-2FFA-49B8-A976-7DEE868949C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DABDE7B2-2FFA-49B8-A976-7DEE868949C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DABDE7B2-2FFA-49B8-A976-7DEE868949C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DABDE7B2-2FFA-49B8-A976-7DEE868949C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7598D02D-6E27-4533-AA4E-7842E9016028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7598D02D-6E27-4533-AA4E-7842E9016028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7598D02D-6E27-4533-AA4E-7842E9016028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7598D02D-6E27-4533-AA4E-7842E9016028}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B899478-6D57-4CF6-AFE7-55728F1C159B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B899478-6D57-4CF6-AFE7-55728F1C159B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B899478-6D57-4CF6-AFE7-55728F1C159B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B899478-6D57-4CF6-AFE7-55728F1C159B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33E6ED9E-8DB7-46DB-A62B-1067E7684019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33E6ED9E-8DB7-46DB-A62B-1067E7684019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33E6ED9E-8DB7-46DB-A62B-1067E7684019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33E6ED9E-8DB7-46DB-A62B-1067E7684019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC63D1F5-B90E-4F51-A644-8A326F719919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC63D1F5-B90E-4F51-A644-8A326F719919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC63D1F5-B90E-4F51-A644-8A326F719919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC63D1F5-B90E-4F51-A644-8A326F719919}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5FF2A93-C94D-4D57-973C-ED5FF1BB6A79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5FF2A93-C94D-4D57-973C-ED5FF1BB6A79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5FF2A93-C94D-4D57-973C-ED5FF1BB6A79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5FF2A93-C94D-4D57-973C-ED5FF1BB6A79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

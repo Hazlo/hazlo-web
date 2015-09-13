@@ -1,0 +1,4 @@
+C:\_Workspace\hazlo.in\hazlo.api\bin\Debug\hazlo.api.dll
+C:\_Workspace\hazlo.in\hazlo.api\bin\Debug\hazlo.api.pdb
+C:\_Workspace\hazlo.in\hazlo.api\obj\Debug\hazlo.api.dll
+C:\_Workspace\hazlo.in\hazlo.api\obj\Debug\hazlo.api.pdb
